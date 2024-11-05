@@ -1,0 +1,230 @@
+{
+  "heading": "Adjectives and Adverbs",
+  "topics": [
+    {
+      "heading": "Adjective v/s Adverb",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Identify the adjective: ",
+          "options": [
+            { "text": "Happy" },
+            { "text": "Jump" },
+            { "text": "Quickly" }
+          ],
+          "answer": 0,
+          "explanation": "\"Happy\" describes a feeling and gives more information about a noun (like a person). It tells us what kind of feeling someone has."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word is an adverb? ",
+          "options": [
+            { "text": "Big" },
+            { "text": "Quickly" },
+            { "text": "Elephant" }
+          ],
+          "answer": 1,
+          "explanation": "\"Quickly\" describes how someone runs. Adverbs tell us more about verbs, and in this case, it tells us the speed of the running."
+        },
+        {
+          "questionNo": 3,
+          "question": "Identify the adjective: ",
+          "options": [
+            { "text": "Blue" },
+            { "text": "Swim" },
+            { "text": "Slowly" }
+          ],
+          "answer": 0,
+          "explanation": "\"Blue\" describes a colour, giving more information about a noun (like a car or a sky). Adjectives help us understand more about nouns."
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the adverb in this sentence? \"She sings beautifully.\" ",
+          "options": [
+            { "text": "Beautifully" },
+            { "text": "She" },
+            { "text": "Sings" }
+          ],
+          "answer": 0,
+          "explanation": "\"Beautifully\" tells us how she sings. It describes the action of singing, making it an adverb."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word is an adjective? \"The tall building is impressive.\" ",
+          "options": [
+            { "text": "Building" },
+            { "text": "Tall" },
+            { "text": "Is" }
+          ],
+          "answer": 1,
+          "explanation": "\"Tall\" describes the noun \"building.\" It tells us more about the height of the building."
+        },
+        {
+          "questionNo": 6,
+          "question": "Identify the adverb: \"John runs fast.\" ",
+          "options": [
+            { "text": "John" },
+            { "text": "Fast" },
+            { "text": "Runs" }
+          ],
+          "answer": 1,
+          "explanation": "\"Fast\" describes how John runs. It gives us information about the action of running."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word is an adjective? \"The furry cat slept.\" ",
+          "options": [
+            { "text": "Cat" },
+            { "text": "Slept" },
+            { "text": "Furry" }
+          ],
+          "answer": 2,
+          "explanation": "\"Furry\" describes the noun \"cat.\" It tells us what kind of cat it is, adding detail about its fur."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the adverb in this sentence: \"She danced gracefully.\" ",
+          "options": [
+            { "text": "She" },
+            { "text": "Danced" },
+            { "text": "Gracefully" }
+          ],
+          "answer": 2,
+          "explanation": "\"Gracefully\" tells us how she danced, describing the manner of the action."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the adverb: \"He speaks loudly.\" ",
+          "options": [
+            { "text": "He" },
+            { "text": "Loudly" },
+            { "text": "Speaks" }
+          ],
+          "answer": 1,
+          "explanation": "\"Loudly\" describes how he speaks. It tells us about the volume of the speaking."
+        },
+        {
+          "questionNo": 10,
+          "question": "What is the adjective in this sentence? \"The funny clown made us laugh.\" ",
+          "options": [
+            { "text": "Funny" },
+            { "text": "Made" },
+            { "text": "Laugh" }
+          ],
+          "answer": 0,
+          "explanation": "\"Funny\" describes the noun \"clown,\" giving us more information about the clown's character."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the adverb: \"They arrived late.\" ",
+          "options": [
+            { "text": "Arrived" },
+            { "text": "Late" },
+            { "text": "They" }
+          ],
+          "answer": 1,
+          "explanation": "\"Late\" tells us when they arrived, giving us more information about the timing of the action."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word is an adjective? \"The delicious cake was gone.\" ",
+          "options": [
+            { "text": "Delicious" },
+            { "text": "Cake" },
+            { "text": "Was" }
+          ],
+          "answer": 0,
+          "explanation": "\"Delicious\" describes the noun \"cake,\" telling us about its taste."
+        },
+        {
+          "questionNo": 13,
+          "question": "Identify the adverb: ",
+          "options": [
+            { "text": "Rabbit" },
+            { "text": "Hops" },
+            { "text": "Quickly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Quickly\" describes the way (or speed), giving information about the action. An adverb is a word that describes or gives more information about a verb, telling us how, when, or where something happens."
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the adjective in this sentence? \"The old tree is very tall.\" ",
+          "options": [
+            { "text": "Very" },
+            { "text": "Old" },
+            { "text": "Tree" }
+          ],
+          "answer": 1,
+          "explanation": "\"Old\" describes the noun \"tree,\" giving us information about its age."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the correct pair:",
+          "options": [
+            { "text": "Happily - Adjective" },
+            { "text": "Smiled - Adverb" },
+            { "text": "She - Pronoun" }
+          ],
+          "answer": 2,
+          "explanation": "She is a pronoun because it is used in place of a noun to refer to a female person. Happily is an adverb, not an adjective, because it describes how someone does something. Smiled is a verb, not an adverb, because it shows an action."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word is an adjective? \"The bright sun is shining.\" ",
+          "options": [
+            { "text": "Bright" },
+            { "text": "Sun" },
+            { "text": "Is" }
+          ],
+          "answer": 0,
+          "explanation": "\"Bright\" describes the noun \"sun,\" giving us information about its light."
+        },
+        {
+          "questionNo": 17,
+          "question": "Identify the adverb: \"He played the game well.\" ",
+          "options": [
+            { "text": "Game" },
+            { "text": "Played" },
+            { "text": "Well" }
+          ],
+          "answer": 2,
+          "explanation": "\"Well\" describes how he played the game, giving more detail about the action."
+        },
+        {
+          "questionNo": 18,
+          "question": "What is the adjective in this sentence? \"The warm blanket kept me cozy.\" ",
+          "options": [
+            { "text": "Warm" },
+            { "text": "Kept" },
+            { "text": "Blanket" }
+          ],
+          "answer": 0,
+          "explanation": "\"Warm\" describes the noun \"blanket,\" telling us about its temperature."
+        },
+        {
+          "questionNo": 19,
+          "question": "Identify the adverb: \"She quickly finished her homework.\" ",
+          "options": [
+            { "text": "Homework" },
+            { "text": "Finished" },
+            { "text": "Quickly" }
+          ],
+          "answer": 2,
+          "explanation": "\"Quickly\" describes how she finished her homework, indicating the speed of the action."
+        },
+        {
+          "questionNo": 20,
+          "question": "Identify the correct pair: ",
+          "options": [
+            { "text": "Sun - Noun" },
+            { "text": "Happy - Adjective" },
+            { "text": "Both a and b" }
+          ],
+          "answer": 2,
+          "explanation": "Sun is a noun because it is a name of a thing (a star in the sky). Happy is an adjective because it describes a feeling or a state of being."
+        }
+      ]
+    }
+  ]
+}
